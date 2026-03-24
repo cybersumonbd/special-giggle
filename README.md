@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/cybersumonbd/special-giggle/blob/main/github.jpeg?raw=true" alt="Cyber Sumon Banner" width="100%">
+</p>
 # 👋 Hi, I'm Sumon Ahmed (Cyber Sumon)
 ### 🛡️ Cyber Security Specialist | CEH & CCNA Certified | Full-Stack Developer
 
